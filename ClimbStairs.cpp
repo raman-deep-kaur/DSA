@@ -1,3 +1,4 @@
+
 int countDistinctWayToClimbStair(long long nStairs)
 {
     //base case
